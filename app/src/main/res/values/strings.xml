@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SendWorkLifeBalance</string>
+    <string name="recent_data">최신 데이터</string>
+    <string name="no_data">없음</string>
+    <string name="channel_name">SMS_CHANNEL</string>
+    <string name="channel_description">sms 정보를 전달합니다</string>
+    <string name="sms_permission_state">메세지 수신 권한 허용 여부</string>
+    <string name="permission_denie">허용 안함, 권한 허용이 필요 합니다.</string>
+    <string name="permission_granted">메세지 권한이 허용 되어있습니다.</string>
+</resources>

@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "657905527819",
+    "project_id": "for-mom-s-work-life-balance",
+    "storage_bucket": "for-mom-s-work-life-balance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657905527819:android:3851e65ddb1d7208e7ab0e",
+        "android_client_info": {
+          "package_name": "com.github.leehana21.receiveworklifebalance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657905527819-bk7adka2fcdbc0gicffl7pmc0fu09j6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.leehana21.receiveworklifebalance",
+            "certificate_hash": "17c8c7cdb274f221dc6782434eb5de588ea1938a"
+          }
+        },
+        {
+          "client_id": "657905527819-meso4cp2cfmg55umdroh7iqs4v3pgrs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmNgU6-wnIDP0OsWoUekzwD-loHuuPgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657905527819-meso4cp2cfmg55umdroh7iqs4v3pgrs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657905527819:android:23299bde8c237f0ee7ab0e",
+        "android_client_info": {
+          "package_name": "com.github.leehana21.sendworklifebalance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657905527819-rubflqfm88sc6r5pi41fqgpeb69tbh7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.leehana21.sendworklifebalance",
+            "certificate_hash": "17c8c7cdb274f221dc6782434eb5de588ea1938a"
+          }
+        },
+        {
+          "client_id": "657905527819-meso4cp2cfmg55umdroh7iqs4v3pgrs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmNgU6-wnIDP0OsWoUekzwD-loHuuPgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657905527819-meso4cp2cfmg55umdroh7iqs4v3pgrs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
